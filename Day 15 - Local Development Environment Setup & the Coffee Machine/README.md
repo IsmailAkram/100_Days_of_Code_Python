@@ -20,3 +20,4 @@ Done through using `for` loops and iterating through `items` in a dictionary.
 
 ## Coffee Machine
 ___
+![Day_15_Coffee](https://github.com/user-attachments/assets/a4c25d9d-44be-4eca-ab03-1cd8c7e40b33)
