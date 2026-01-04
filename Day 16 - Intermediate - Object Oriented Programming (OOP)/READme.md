@@ -25,4 +25,4 @@ def greet(greeting): #parameter
 greet("Hi") #argument
 ```
 ![img.png](img.png)
-![Day_16_Coffee_Class.gif](Day_16_Coffee_Class.gif)
+![Day_16_Coffee_Class](https://github.com/user-attachments/assets/0e404260-a423-4726-b153-0d3c2924a55d)
