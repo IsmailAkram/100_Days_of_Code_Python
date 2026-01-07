@@ -37,3 +37,4 @@ print(user_2.username, user_2.id, user_2.followers, user_2.following)
 
 ## Quiz Project
 ___
+![Day_17_Quiz_Project](https://github.com/user-attachments/assets/49cde9f1-e2e8-4d97-a628-40efed11c6b4)
