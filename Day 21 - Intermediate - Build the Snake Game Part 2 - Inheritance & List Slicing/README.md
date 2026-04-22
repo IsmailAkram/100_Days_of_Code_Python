@@ -17,3 +17,4 @@ class Child(Parent):
         # inherit from the super class. 
 		super().__init__() # The call to super() in the initializer is recommended but not strictly required.
 ```
+![Day_21_Operation_Snake_Eater.gif](Day_21_Operation_Snake_Eater.gif)
